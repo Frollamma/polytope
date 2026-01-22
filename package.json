@@ -1,0 +1,12 @@
+{
+  "name": "polytope",
+  "version": "0.1.0",
+  "type": "module",
+  "bin": {
+    "polytope": "./main.js"
+  },
+  "dependencies": {
+    "commander": "^14.0.2",
+    "ethers": "^6.16.0"
+  }
+}
